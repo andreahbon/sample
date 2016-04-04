@@ -5,3 +5,5 @@
 * Hornet
 
 ## Exploratory data analysis
+
+Git is easy. Git is fun. Thanks, Linus!
